@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>QR generator</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"/>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <!--controllers-->
+    <script type="text/javascript" src="applicationCtrl.js"></script>
+</head>
+<style>
+    table, th , td  {
+        border: 1px solid grey;
+        border-collapse: collapse;
+        padding: 5px;
+    }
+    table, th {
+        border-
+    }
+    table, caption {
+        border: 1px solid grey;
+        border-collapse: collapse;
+        padding: 5px;
+        color: #000;
+        background-color: #AAB3B6;
+    }
+    table tr:nth-child(odd)	{
+        background-color: #E6F1F5;
+    }
+    table tr:nth-child(even) {
+        background-color: #ffffff;
+    }
+    .inner-addon {
+        position: relative;
+    }
+    .inner-addon .glyphicon {
+        position: absolute;
+        padding: 5px;
+        pointer-events: none;
+    }
+    .right-addon .glyphicon {
+        right: 0px;
+    }
+    .right-addon input {
+        padding-right: 30px;
+    }
+    textarea {
+        vertical-align: top;
+    }
+</style>
+<body ng-app="qrApp" ng-controller="ApplicationCtrl">
+<form>
+    <div>
+        <table align="center" style="width:1024px; margin-top: 70px;">
+            <caption>
+                <div align="center" style="color:white"><b>QR code generator</b></div>
+                <div style="display: inline-block;">
+                    <div class="inner-addon right-addon" style="display: inline-block;" align="right">
+                        <button type="button" class="btn btn-info" data-toggle="modal" data-target="#myModal" style="height:26px; width=26px;"><i class="glyphicon glyphicon-info-sign"></i></button>
+                        <div class="modal fade" id="myModal" role="dialog">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header" align="center">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h4 class="modal-title">Information</h4>
+                                    </div>
+                                    <div class="modal-body" align="left">
+                                        <p>QR code (abbreviated from Quick Response Code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed for the automotive industry in Japan. A barcode is a machine-readable optical label that contains information about the item to which it is attached. A QR code uses four standardized encoding modes (numeric, alphanumeric, byte/binary, and kanji) to efficiently store data; extensions may also be used.</p>
+                                        <p>The QR code system became popular outside the automotive industry due to its fast readability and greater storage capacity compared to standard UPC barcodes. Applications include product tracking, item identification, time tracking, document management, and general marketing.</p>
+                                        <p>A QR code consists of black squares arranged in a square grid on a white background, which can be read by an imaging device such as a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.</p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </caption>
+            <tr>
+                <th>
+                    <div>
+                        <label for="imageSizeSelect">
+                            Image size:
+                            <select name="imageSizeSelect" id="imageSizeSelect" ng-model="size" style="width: 50px;">
+                                <option ng-repeat="option in sizes" value="{{option}}">{{option}}</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div>
+                        <label for="imageTypeSelect">
+                            Image type:
+                            <select name="imageTypeSelect" id="imageTypeSelect" ng-model="fileType" style="width: 50px;">
+                                <option ng-repeat="option in fileTypes" value="{{option}}">{{option}}</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div>
+                        <label>
+                            Content: <textarea type="text" ng-model="content" rows="5" style="width: 1023px;"/>
+                        </label>
+                    </div>
+                    <div>
+                        <button type="button" class="btn btn-success" style="float: right;" ng-click="generate()">Generate QR code</button>
+                    </div>
+                </th>
+            </tr>
+        </table>
+    </div>
+</form>
+</body>
+</html>

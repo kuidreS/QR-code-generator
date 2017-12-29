@@ -1,0 +1,90 @@
+2017-12-21 11:48:22 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object with a size = 300and content: Hello, Vitalii Serdiuk has been generated
+2017-12-21 11:48:22 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 11:49:30 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object with a size = 300and content: Hello, Vitalii Serdiuk has been generated
+2017-12-21 11:49:30 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 11:49:35 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object with a size = 300and content: Hello, Vitalii Serdiuk has been generated
+2017-12-21 11:49:35 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 11:51:44 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object with a size = 300and content: Hello, Vitalii Serdiuk has been generated
+2017-12-21 11:51:50 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 11:54:30 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object with a size = 300and content: Hello, Vitalii Serdiuk has been generated
+2017-12-21 11:54:30 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 11:55:02 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object with a size = 300and content: Hello, Vitalii Serdiuk has been generated
+2017-12-21 11:55:02 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 11:55:26 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object with a size = 300and content: Hello, Vitalii Serdiuk has been generated
+2017-12-21 11:55:26 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 12:24:35 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-2] - Binary large object has been generated
+2017-12-21 12:24:35 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-2] - Blob has been converted to an image
+2017-12-21 12:25:08 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-3] - Binary large object has been generated
+2017-12-21 12:25:08 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-3] - Blob has been converted to an image
+2017-12-21 12:26:22 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-5] - Binary large object has been generated
+2017-12-21 12:26:22 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-5] - Blob has been converted to an image
+2017-12-21 12:32:44 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 12:32:44 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 12:33:55 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 12:33:55 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 12:34:47 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 12:34:47 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 12:35:53 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 12:35:53 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 12:36:54 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 12:36:54 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 12:37:44 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 12:37:44 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 12:40:59 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 12:40:59 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 13:53:20 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 13:53:20 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 13:55:20 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 13:55:20 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 14:01:59 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 14:01:59 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 14:02:40 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 14:02:40 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 14:03:21 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-4] - Binary large object has been generated
+2017-12-21 14:03:21 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-4] - Blob has been converted to an image
+2017-12-21 14:03:30 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-5] - Binary large object has been generated
+2017-12-21 14:03:30 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-5] - Blob has been converted to an image
+2017-12-21 14:03:48 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 14:03:48 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 14:14:40 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 14:14:40 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 14:16:01 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 14:16:08 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 14:16:14 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-21 14:18:03 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-21 14:18:03 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 09:29:19 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 09:30:30 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 09:30:30 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 09:49:56 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 09:49:56 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:11:05 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 10:11:05 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:11:06 ERROR [com.vserdiuk.qr.bl.ContentCryptographer:http-nio-8080-exec-1] - java.security.InvalidKeyException: Invalid AES key length: 20 bytes
+2017-12-22 10:13:31 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 10:13:31 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:27:26 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 10:27:26 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:28:12 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 10:28:12 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:30:16 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 10:30:16 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:30:17 ERROR [com.vserdiuk.qr.bl.ContentCryptographer:http-nio-8080-exec-1] - javax.crypto.BadPaddingException: Given final block not properly padded
+2017-12-22 10:31:02 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 10:31:02 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:31:02 ERROR [com.vserdiuk.qr.bl.ContentCryptographer:http-nio-8080-exec-1] - javax.crypto.BadPaddingException: Given final block not properly padded
+2017-12-22 10:31:21 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-22 10:31:21 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-22 10:31:53 ERROR [com.vserdiuk.qr.bl.ContentCryptographer:http-nio-8080-exec-1] - javax.crypto.BadPaddingException: Given final block not properly padded
+2017-12-28 10:39:35 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-8080-exec-1] - Binary large object has been generated
+2017-12-28 10:39:35 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-8080-exec-1] - Blob has been converted to an image
+2017-12-28 12:03:33 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-9876-exec-1] - Binary large object has been generated
+2017-12-28 12:03:33 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-9876-exec-1] - Blob has been converted to an image
+2017-12-28 13:12:46 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-9876-exec-4] - Binary large object has been generated
+2017-12-28 13:12:46 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-9876-exec-4] - Blob has been converted to an image
+2017-12-28 13:18:39 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-9876-exec-1] - Binary large object has been generated
+2017-12-28 13:18:39 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-9876-exec-1] - Blob has been converted to an image
+2017-12-28 13:20:55 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-9876-exec-3] - Binary large object has been generated
+2017-12-28 13:20:55 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-9876-exec-3] - Blob has been converted to an image
+2017-12-28 13:25:55 DEBUG [com.vserdiuk.qr.bl.BlobGenerator:http-nio-9876-exec-3] - Binary large object has been generated
+2017-12-28 13:25:55 DEBUG [com.vserdiuk.qr.bl.BlobToImageConvertor:http-nio-9876-exec-3] - Blob has been converted to an image
